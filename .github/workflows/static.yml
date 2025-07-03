@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Política de Privacidad</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #0078d7;
+    }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidad</h1>
+  <p>Esta aplicación ("nosotros") recopila y utiliza datos personales para ofrecer sus servicios, incluyendo la autenticación mediante Facebook Login.</p>
+
+  <h2>Información que recopilamos</h2>
+  <p>Recopilamos datos básicos proporcionados por Facebook como su nombre, correo electrónico y perfil público, según los permisos que usted autorice.</p>
+
+  <h2>Uso de la información</h2>
+  <p>La información se usa únicamente para fines relacionados con la funcionalidad de la aplicación y para mejorar su experiencia de usuario.</p>
+
+  <h2>Compartir información</h2>
+  <p>No compartimos su información con terceros sin su consentimiento, salvo los proveedores de servicios necesarios para el funcionamiento de la app.</p>
+
+  <h2>Seguridad</h2>
+  <p>Implementamos medidas técnicas y organizativas para proteger sus datos personales contra acceso no autorizado o divulgación.</p>
+
+  <h2>Contacto</h2>
+  <p>Para preguntas sobre esta política, por favor contáctenos a través de nuestro correo de soporte.</p>
+</body>
+</html>
